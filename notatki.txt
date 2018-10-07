@@ -1,1 +1,2 @@
 Pierwsza notatka z zajec
+To jest zmiana wprowadzona w masterze
